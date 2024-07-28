@@ -18,7 +18,7 @@ BscoreT.innerHTML = "Best Score:" + bestScore
 let Row = 20;
 let Col = 11;
 const audio = new Audio('scorePlus.mp3');
-const BGaudio = new Audio('https://aionverseforgamesbyaaayme.on.drv.tw/AionVerse.org/sounds/background.mp3')
+const BGaudio = new Audio('background.mp3')
 let LSound = new Audio('lose.mp3')
 let WSound = new Audio('newBest.mp3')
 
